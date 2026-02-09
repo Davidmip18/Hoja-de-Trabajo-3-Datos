@@ -11,7 +11,7 @@ public class App {
         };
         
         int[] tamaños = {10, 100, 500, 1000, 2000, 3000};
-        String archivo = "datos.txt";
+        String archivo = "datos.csv";
         
         System.out.println("Algoritmo, Cantidad, Tipo, Tiempo(ns)");
         
